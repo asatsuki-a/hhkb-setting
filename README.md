@@ -7,4 +7,8 @@ AutoHotKeyみたいな設定を入れられないときに**JIS配列HHKB**だ�
 - Aキーの左(本来はCtrl)をFnキーに設定
 - Ctrlキーは親指で押すのでMacモードのCmdキーの位置に設定
 
-<img width="745" alt="windows_keymap" src="https://user-images.githubusercontent.com/68286604/172063318-5e65ebb0-d37a-4c90-8da2-fc337e34e130.png">
+![キー配置画像](image/windows_keymap.png)
+
+## IMEの切り替えはWindows側で設定(Windows10以降)
+IMEの設定で変換/無変換にIMEのオン/オフを割り当てるとMacのかな/英数のように日本語・英語の入力を切り替えられるようになる
+![IME設定画像](image/ime_config.png)
